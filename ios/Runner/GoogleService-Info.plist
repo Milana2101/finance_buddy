@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyARggPhoS2eXA-Q2gPRX7d6P0piUxKE8-M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>667428316792</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.financeBuddy</string>
+	<key>PROJECT_ID</key>
+	<string>finbuddy-66278</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finbuddy-66278.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:667428316792:ios:c69aba9decbfc1e4f4ef8d</string>
+</dict>
+</plist>

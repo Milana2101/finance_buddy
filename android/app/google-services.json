@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667428316792",
+    "project_id": "finbuddy-66278",
+    "storage_bucket": "finbuddy-66278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667428316792:android:6f09bce58ee9d711f4ef8d",
+        "android_client_info": {
+          "package_name": "com.example.finance_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6nWdWSoWBTg5m6yKJyWE4zV9g0kVVaeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
